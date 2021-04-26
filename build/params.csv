@@ -74,6 +74,10 @@ NoRelHeuristic,int
 UpdateMode,int
 WorkerPort,int
 Record,int
+PoolSolutions,int
+PoolSearchMode,int
+PoolGap, dbl
+PoolGapAbs, dbl
 Cutoff,dbl
 IterationLimit,dbl
 NodeLimit,dbl
